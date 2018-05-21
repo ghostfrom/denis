@@ -1,4 +1,20 @@
 beautifulsoup4==4.5.1
 bs4==0.0.1
-pyTelegramBotAPI==2.1.7
-requests==2.11.1
+certifi==2018.4.16
+chardet==3.0.4
+configparser==3.5.0
+cookies==2.2.1
+docopt==0.6.2
+future==0.16.0
+idna==2.6
+pipreqs==0.4.9
+pyTelegramBotAPI==3.6.3
+python-telegram-bot==10.1.0
+-e git+https://github.com/jtasker/python-weather-api@cf79f478c26dd244e0c90e10d6df91bb4ea8cd5e#egg=pywapi
+requests==2.18.4
+responses==0.9.0
+six==1.11.0
+style==1.1.0
+update==0.0.1
+urllib3==1.22
+yarg==0.1.9
