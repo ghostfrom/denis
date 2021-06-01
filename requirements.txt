@@ -16,5 +16,5 @@ responses==0.9.0
 six==1.11.0
 style==1.1.0
 update==0.0.1
-urllib3==1.22
+urllib3==1.26.5
 yarg==0.1.9
